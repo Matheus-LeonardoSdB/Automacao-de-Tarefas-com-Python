@@ -41,4 +41,4 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos de:
 * Estruturação de scripts em Python.
 * Resolução de problemas através de automação.
 
-P.S: Descrição gerada por IA (apenas descrição)
+P.S: Descrição gerada por IA
