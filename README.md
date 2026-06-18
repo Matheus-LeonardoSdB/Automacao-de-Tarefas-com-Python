@@ -1,3 +1,5 @@
+#PROJETO FEITO PARA APRENDIZADO, USANDO O SISTEMA DA HASHTAG TREINAMENTOS
+
 # Automação de Tarefas com Python
 
 Projeto desenvolvido para automatizar tarefas repetitivas utilizando Python e a biblioteca PyAutoGUI.
