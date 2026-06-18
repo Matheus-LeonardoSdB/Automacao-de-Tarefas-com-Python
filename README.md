@@ -1,4 +1,4 @@
-# PROJETO FEITO PARA APRENDIZADO, USANDO O SISTEMA DA HASHTAG TREINAMENTOS
+# Projeto feito para aprendizado, usando o sistema da Hashtag treinamentos
 
 # Automação de Tarefas com Python
 
