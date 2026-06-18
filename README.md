@@ -1,4 +1,6 @@
-# Projeto feito para aprendizado, usando o sistema da Hashtag treinamentos
+# Disclaimer
+
+Projeto feito para aprendizado, usando o sistema da hashtag treinamentos.
 
 # Automação de Tarefas com Python
 
